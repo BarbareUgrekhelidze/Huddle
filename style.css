@@ -77,7 +77,7 @@ body{
 }
 
 h1{
-    font-size: 35px;
+    font-size: 50px;
     font-weight: 700;
     margin-bottom: 25px;
     color: var(--Very-Dark-Cyan);
@@ -243,6 +243,10 @@ a{
 
     .mr{
         margin-right: 0;
+    }
+
+    .ml{
+        margin-left: 0;
     }
 
 }
