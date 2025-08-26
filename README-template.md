@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with curved sections solution
 
-This is a solution to the [Huddle landing page with curved sections challenge on Frontend Mentor](https://github.com/barbare999/Huddle.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Huddle landing page with curved sections challenge on Frontend Mentor](https://github.com/BarbareUgrekhelidze/Huddle.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/barbare999/Huddle.git)
-- Live Site URL: [Add live site URL here](https://barbare999.github.io/Huddle/)
+- Solution URL: [Add solution URL here](https://github.com/BarbareUgrekhelidze/Huddle.git)
+- Live Site URL: [Add live site URL here](https://BarbareUgrekhelidze.github.io/Huddle/)
 
 ## My process
 
@@ -34,5 +34,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Huddle Landing Page](https://barbare999.github.io/Huddle/)
+- Website - [Huddle Landing Page](https://BarbareUgrekhelidze.github.io/Huddle/)
 - Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/barbare999)
